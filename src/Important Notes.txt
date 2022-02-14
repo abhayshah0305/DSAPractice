@@ -1,0 +1,12 @@
+
+> Stack and Heap Memory
+> Objects are stored in heap memory
+> Heap objects are not continuous
+> The new keyword is used to create an object
+> Java only has pass by value
+> Primitives like byte, short, int, char.... are passed by value
+> Objects and References are passed by value of the reference variable
+> Dynamic Memory Allocation
+
+Check Leap Year Or Not
+Sum Of A Digits Of Number
